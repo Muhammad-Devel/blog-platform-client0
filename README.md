@@ -3,6 +3,7 @@
 ## 📸 Screenshots
 
 ![Dashboard](./blog-platform-screen-2.png)
+![Login](./blog-platform-screen-3.png)
 
 ### English
 
