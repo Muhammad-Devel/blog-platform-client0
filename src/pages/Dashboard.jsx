@@ -14,6 +14,7 @@ const Dashboard = () => {
       setPosts(res.data);
     } catch (err) {
       console.log(err.response.data);
+      navigate("/login");
     }
   };
 
