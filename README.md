@@ -1,5 +1,9 @@
 ## Blog Platform Client
 
+## 📸 Screenshots
+
+![Dashboard](./blog-platform-screen-2.png)
+
 ### English
 
 This is the client-side application for the Blog Platform project. Built with React and Vite, it provides a fast and modern interface for users to read, create, and manage blog posts.
