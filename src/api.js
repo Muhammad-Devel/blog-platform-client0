@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5050/api",
+  baseURL: "https://blog-platform-back0.onrender.com/api",
 });
 
 // Agar token bo'lsa headerga qo'shish
