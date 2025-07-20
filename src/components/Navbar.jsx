@@ -32,6 +32,9 @@ const Navbar = () => {
           Logout
         </button>
       )}
+      <div className="navbar-about">
+        <p>Made with ❤️ by Mukhammd J.A</p>
+      </div>
     </nav>
   );
 };
