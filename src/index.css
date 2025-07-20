@@ -2,7 +2,7 @@
 
 /* Navbar Styles */
 .navbar {
-  @apply bg-gray-800 text-white p-4 flex justify-between items-center;
+  @apply bg-gray-800 text-white p-4 flex justify-between items-center relative;
 }
 .navbar-brand {
   @apply text-xl font-bold;
@@ -15,6 +15,9 @@
 }
 .navbar-button {
   @apply bg-blue-500 text-white rounded-md p-2 hover:bg-blue-600 transition-colors;
+}
+.navbar-about {
+  @apply left-0 bottom-0 w-full bg-gray-800 text-white p-4 text-center;
 }
 
 .form-container {
